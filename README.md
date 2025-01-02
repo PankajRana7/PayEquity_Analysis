@@ -60,11 +60,15 @@ Revised the level categories to group them into 6 sections for better analysis.
 Use of Quartiles for Salary (IQR)
 
 Interquartile Range (IQR) was calculated to understand the spread of the salary distribution.
+
 Upper and Lower Thresholds were defined based on IQR to identify salary outliers.
+
 Winsorizing - Delete Outliers
+
 Applied Winsorizing to reduce the effect of outliers in the salary data.
 
 Functions Used
 
 AVERAGEIFS: To calculate the average salary based on certain conditions.
+
 COUNTIFS: To count the number of males and females in each level.
