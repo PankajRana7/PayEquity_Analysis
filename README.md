@@ -1,5 +1,8 @@
 Gender Pay Analysis
+
+
 Problem Statement
+
 This project focuses on analyzing gender pay disparities across various levels in an organization. The main objective is to understand the salary distribution between males and females at different job levels.
 
 1. What is the average salary for males and females overall?
