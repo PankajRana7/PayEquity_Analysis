@@ -10,11 +10,15 @@ This project focuses on analyzing gender pay disparities across various levels i
 3. Which level has the highest gender pay disparity?
 4. Are females underrepresented in higher-paying levels (e.g., IC6 or M1)?
 5. Does any level show near-equal pay between males and females?
+   
 Answers
+
 What is the average salary for males and females overall?
 
 Male: $162,110
 Female: $147,961
+
+
 Within each level (e.g., IC3, IC4, IC5, IC6, M1, Others), who earns more, males or females?
 
 IC3: Female
@@ -23,18 +27,24 @@ IC5: Male
 IC6: Male
 M1: Female
 Others: Male
+
+
 Which level has the highest gender pay disparity?
 
 Level: Others
 Male: $163,431
 Female: $119,601
+
 Are females underrepresented in higher-paying levels (e.g., IC6 or M1)?
 
 At the M1 level, females receive higher pay compared to their male counterparts.
+
 Does any level show near-equal pay between males and females?
 
 Yes, at the IC3 level, females receive slightly higher pay compared to males.
+
 Steps Taken
+
 Handling Missing Values
 Ensured all missing or null values were handled appropriately.
 
